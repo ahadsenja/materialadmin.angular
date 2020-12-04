@@ -1,33 +1,3 @@
-# Angular Material Admin Lite - free and open source angular admin dashboard template
-Including responsive layout and high quality UI built with Angular Material.
-
-[Demo](https://flatlogic.com/templates/angular-material-admin/demo) | [Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards)
-
-![1 (1)](https://user-images.githubusercontent.com/17360676/84912599-41a99c00-b0c2-11ea-8d9b-6c05a398b8ca.jpg)
-
-This repository contains a limited free version.
-
-## Features
-
-Using this template you will be able to leverage lots of built-in components and thus focus on building features that set you apart from competitors rather than bulding everything from scratch. Lite version of Angular Material Admin includes following features and pages:
-* Angular Material & SCSS
-* Responsive layout
-* Styled Angular Material components like buttons, cards, etc
-* Dashboard sample
-* Typography
-* Tables
-* Notifications
-* Base charts
-* Icons
-* Maps
-* Hover sidebar
-* Login
-* 404
-
-![2 (1)](https://user-images.githubusercontent.com/17360676/84912752-6b62c300-b0c2-11ea-9ff0-f92bad33f2b0.jpg)
-
-Building a project from scratch means that there is a lot of things to keep track of all at once: analytics, dynamic forms data, UI and UX elements, and much more. This simple admin template is well suited for web apps or any other website or project that requires admin dashboard. This template will serve as a solid foundation for your upcoming project and will save you a lot of time and, hence, money.
-
 ## Quick Start
 
 #### 1. Get the latest version
@@ -59,18 +29,3 @@ Angular Material Admin is a part of admin dashboard solution provided by Flatlog
 
 ## Support
 For any additional information please refer to [Flatlogic homepage](https://flatlogic.com).
-
-## How can I support developers?
-- Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/sing-app&via=flatlogic).
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow [@flatlogic on Twitter](https://twitter.com/flatlogic).
-- Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
-- Like our page on [Facebook](https://www.facebook.com/flatlogic/) :thumbsup:
-
-## More from Flatlogic
-- [Awesome Bootstrap Checkboxes & Radios](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Pure css way to make inputs look prettier
-- [React Native Starter](https://github.com/flatlogic/react-native-starter) - 🚀 A powerful react native starter template that bootstraps development of your mobile application
-
-## Premium themes
-Looking for premium themes and templates? Check out our other templates at [flatlogic.com](https://flatlogic.com/templates).
